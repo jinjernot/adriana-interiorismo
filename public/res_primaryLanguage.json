@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "Mi objetivo principal es estar en constante aprendizaje para poder desarrollarme en el ámbito de la arquitectura en sus diferentes especialidades, aportar con mis conocimientos, experiencia y capacidad de análisis a la toma efectiva de decisiones. Intereses: Dirección Creativa, Diseño de Interiores, Fotografía.",
+      "section_name": {
+        "about": "Sobre mi",
+        "projects": "Proyectos",
+        "skills": "aqui que",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Diseño y Gestión Inmobiliaria",
+        "title": "Especialista en compras",
+        "years": "Jul 2021 - presente",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Ordenes de compra",
+          "Protocolos y procesos operativos",
+          "Cuadros comparativos",
+          "Desarrollo de cartera de proveedor",
+          "Seguimiento a entregas de insumos",
+          "Negociaciones",
+          "Programación de pagos",
+          "SignalR",
+          "Gestión de créditos"
+        ]
+      },
+      {
+        "company": "CONCAVUS",
+        "title": "Especialista en compras",
+        "years": "Enero 2021 - Mayo 2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Gestión de créditos",
+          "Coordinación de logística de entregas",
+          "Lean Six Sigma",
+          "Facturas cargadas en sistema",
+          "Compac Comercial",
+          "Control de almacenes"
+        ]
+      },
+      {
+        "company": "Constructora Baxal",
+        "title": "Arquitecta de proyectos",
+        "years": "Octubre 2018 - Abril 2020",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Revisión de cotizaciones y proyecto ejecutivo",
+          "Análisis y revisión de propuestas económica",
+          "Gestión y seguimiento de cotizaciones",
+          "Negociación con proveedores.",
+          "Búsqueda y ampliación de cartera de nuevos proveedores"
+        ]
+      }
+    ]
+  }
